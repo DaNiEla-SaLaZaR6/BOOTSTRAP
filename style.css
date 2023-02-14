@@ -1,0 +1,55 @@
+*/{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/785293/pexels-photo-785293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+header{
+    height: 120px;
+    color: rgb(248, 251, 253);
+    background-color: rgba(81, 0, 255, 0.418);
+    display:block;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;    
+}
+h1{
+    font-style: italic;
+    font-size: 50px;   
+    text-align: center;
+    margin-top: 25px;
+    
+}
+p{
+    font-style: italic;
+    font-size: 25px;
+    text-align: center;
+}
+.container hr{
+    border: solid 2px rgba(0, 102, 255, 0.842);
+    opacity: 1;
+}
+
+.accordion{
+    background-color: rgb(38, 0, 255);
+    border: solid 1px rgb(31, 163, 224);
+}
+.linmaq{
+    text-align: center;
+}
+.linper{
+    text-align: center;
+}
+.linrop{
+    text-align: center;
+}
+.lincal{
+    text-align: center;
+}
+.formulario{
+    background-color: rgba(69, 66, 236, 0.205);
+}
